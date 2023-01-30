@@ -42,5 +42,10 @@ html, body {
 }
 .column-2{
     padding-left: 100px;
-    
+}
+#vid-sec{
+    text-align: center;
+}
+#body-message{
+    text-align: center;
 }
