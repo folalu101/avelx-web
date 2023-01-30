@@ -13,7 +13,6 @@ html, body {
 .nav {
     padding-right: 200px;
     padding-top: 10px;
-    margin-top: 5px;
     background-color: black;
     
 }
@@ -23,9 +22,9 @@ html, body {
     text-decoration: none;
     width: 100%; 
     text-align: center;
-    font-size: large;
+    font-size: medium;
     font-weight: 400;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
   }
   .nav a:hover {
     background-color: brown;
@@ -33,3 +32,15 @@ html, body {
   .nav-item {
     margin-left: 50px;
   }
+#bodypart-1{
+    /* background-color: rgb(123, 241, 241); */
+    background-color: rgba(194, 227, 255, 0.5);
+}
+.column-1{
+    text-align: center;
+    margin-top: 90px;
+}
+.column-2{
+    padding-left: 100px;
+    
+}
